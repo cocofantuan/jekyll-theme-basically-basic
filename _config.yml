@@ -20,7 +20,7 @@ description: 此网站用于网页制作与设计的学习
 baseurl: /jekyll-theme-basically-basic # the optional subpath of your site, e.g. "/blog"
 url: https://ltco.gitee.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 饭团
-  name: 饭团
+  name:
   weibo: https://weibo.com/u/6281042481
   picture: 
 weibo_username: 饭团李阿co
