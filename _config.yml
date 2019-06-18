@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
-email:
-description:
+lang: zh
+title: 林小瓜的小瓶子
+email: 956749566@qq.com
+description: 此网站用于网页制作与设计的学习
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
+url: # the base hostname & protocol for your site e.g. "https://github.com/cocofantuan"
+author: 饭团
+  name: 饭团
+  weibo: https://weibo.com/u/6281042481
+  picture: 
+weibo_username: 饭团李阿co
+github_username: cocofantuan
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
